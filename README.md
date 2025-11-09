@@ -16,8 +16,9 @@ This Python tool captures live network packets and uploads them to an AWS S3 buc
 Install with:
 ```bash
 pip install boto3 scapy
+```
 
 ## Usage Demo
 Demonstration of capturing packets and uploading logs to AWS S3.
 
-https://github.com/user-attachments/assets/c9d0428d-eddb-432c-b671-24b91e34cdf4
+https://github.com/user-attachments/assets/16bab140-25a1-47f3-97f6-eacb03a59bae
